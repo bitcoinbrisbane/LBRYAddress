@@ -1,0 +1,38 @@
+{
+  "name": "lbry-address-generator",
+  "version": "1.0.0",
+  "description": "A Node.js library for generating LBRY blockchain addresses compatible with lbry.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node index.js"
+  },
+  "keywords": [
+    "lbry",
+    "blockchain",
+    "cryptocurrency",
+    "address",
+    "wallet",
+    "bitcoin",
+    "secp256k1"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "secp256k1": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/lbry-address-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/lbry-address-generator/issues"
+  },
+  "homepage": "https://github.com/yourusername/lbry-address-generator#readme"
+}
